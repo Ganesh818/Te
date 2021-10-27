@@ -1,1 +1,2 @@
 {result:N,message:Requested resource is absent}
+this is fun.
